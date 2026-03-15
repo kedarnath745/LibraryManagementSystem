@@ -40,10 +40,8 @@ A JavaFX-based desktop application for managing a library's book inventory and u
 ## Usage
 
 1. **Login**: Use one of the predefined credentials:
-   - Username: `admin`, Password: `password`
-   - Username: `PRITHVI`, Password: `ERRIPOOK`
-   - Username: `MANIKANTA`, Password: `KOJJA`
-   - Username: `HARSHAVARDHAN`, Password: `BRO`
+   - Username: `admin`, Password: `123`
+   - Username: `test`, Password: `test`
 
 2. **Main Interface**:
    - View the book inventory in the table

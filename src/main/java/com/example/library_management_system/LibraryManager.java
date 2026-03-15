@@ -9,10 +9,8 @@ public class LibraryManager {
 
     public LibraryManager() {
         // Initialize with some users
-        users.add(new User("admin", "password"));
-        users.add(new User("PRITHVI", "ERRIPOOK"));
-        users.add(new User("MANIKANTA","KOJJA"));
-        users.add(new User("HARSHAVARDHAN","BRO"));
+        users.add(new User("admin", "123"));
+        users.add(new User("test", "test"));
 
         // Initialize with some books with image paths
         bookInventory.add(new Book("NARUTO", "Masashi Kishimoto", "978-3-16-148410-0", true, "file:src/main/java/BookImages/Naruto.png"));
