@@ -104,5 +104,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Book cover images sourced from various online resources
-- Custom fonts: Concert One and Manjari Bold</content>
-<parameter name="filePath">c:\Users\kedaa\Desktop\PROJECTS MAIN\Library_Management_System\Library_Management_System\README.md
+- Custom fonts: Concert One and Manjari Bold
